@@ -30,3 +30,6 @@ img {
     height: 300px;
     margin-left: 40%;
 }
+table {
+    border: solid 5px black;
+}
