@@ -6,11 +6,12 @@ h1 {
     padding: 20px 0;
     text-shadow: 3px 3px 1px black;
 }
-h2 {
+h2, h3 {
     color: teal;
     text-align: center;
     font-size: 50px;
 }
+
 a {
     text-decoration: none;
     font-size: 50px;
@@ -32,4 +33,8 @@ img {
 }
 table {
     border: solid 5px black;
+}
+.imageindex {
+    margin-left: 0px;
+    font-size: small;
 }
