@@ -6,7 +6,7 @@ h1 {
     padding: 20px 0;
     text-shadow: 3px 3px 1px black;
 }
-h2, h3 {
+h2, h3, h4 {
     color: teal;
     text-align: center;
     font-size: 50px;
@@ -17,7 +17,7 @@ a {
     font-size: 50px;
 }
 body {
-    background-color: rgba(225, 219, 144, 0.28);
+    background-color: rgb(255, 255, 255);
 }
 li {
     list-style: none;

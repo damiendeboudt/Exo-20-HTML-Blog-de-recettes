@@ -3,8 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <title>form contact</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <h4>demande d'information complémentaire</h4>
 
     <form action="formulaire de contact.php"method="post">
         <div>
@@ -16,7 +18,13 @@
         <div>
             <input placeholder="votre email" type="email">
         </div>
-
+        <div>
+            <label for="message">Votre message</label>
+            <textarea id="message" name="demande d'information"></textarea>
+        </div>
+        <div>
+            <button type="submit">Envoyer à <mailto>damien.deboudt@sfr.fr</mailto></button>
+        </div>
     </form>
 </body>
 </html>
