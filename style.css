@@ -18,6 +18,7 @@ a {
 }
 body {
     background-color: rgb(255, 255, 255);
+    backg
 }
 li {
     list-style: none;
@@ -35,6 +36,16 @@ table {
     border: solid 5px black;
 }
 .imageindex {
-    margin-left: 0px;
-    font-size: small;
+    margin-left: 40px;
+}
+.index {
+    text-align: left;
+    font-size: xxx-large;
+    border: 5px solid black;
+}
+.contact{
+    font-size: 40px;
+}
+#info {
+    font-weight: bold;
 }
